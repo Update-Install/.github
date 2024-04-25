@@ -5,7 +5,7 @@ Never struggle with finding download links again.<br>
 <h3><code>ui install</code></h3>
 <br>
 </div>
-
+## Install / Update
 # Installation
 Copy and paste the following command to your terminal.
 ```bash
