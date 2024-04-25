@@ -9,7 +9,7 @@ Never struggle with finding download links again.<br>
 # Installation
 Copy and paste the following command to your terminal.
 ```bash
-sudo wget https://github.com/Update-Install/CLI/releases/latest/download/ui-cli_linux_amd64 -q --show-progress --progress=bar:force -O /usr/local/bin/ui
+wget -O - https://short.on-cloud.tw/cli-install-script | bash
 ```
 
 # Usage
