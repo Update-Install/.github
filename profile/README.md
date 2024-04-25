@@ -32,8 +32,7 @@ ui install discord
 `ui --help` show command information  
 `ui source` show the config file of ui  
 `ui source -n {name} -u {URL}` set a source for a package  
-`ui install` download the package file in config file's list then install it.  
 `ui install {name}` download and install the specific package
 
-# Developing/Contributing
+# Advance Installation / Developing / Contributing
 Please refers to the [update install cli](https://github.com/Update-Install/cli) for more detailed information.
