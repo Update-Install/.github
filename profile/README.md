@@ -9,7 +9,7 @@ Never struggle with finding download links again.<br>
 # Installation
 Copy and paste the following command to your terminal.
 ```bash
-wget -O - https://short.on-cloud.tw/cli-install-script | bash
+bash <(wget -qO- https://short.on-cloud.tw/ui-install-script)
 ```
 
 # Usage
