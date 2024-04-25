@@ -5,8 +5,9 @@ Never struggle with finding download links again.<br>
 <h3><code>ui install</code></h3>
 <br>
 </div>
-## Install / Update
+
 # Installation
+## Install / Update
 Copy and paste the following command to your terminal.
 ```bash
 bash <(wget -qO- https://short.on-cloud.tw/ui-install-script)
